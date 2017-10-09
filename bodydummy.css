@@ -1,1 +1,4 @@
-{ cursor: url(/arrow_rl.cur), pointer; animation: fade 1s; }
+
+html {
+  cursor: url("https://justemptywords.github.io/home/3dgarro.cur"), default;
+}
