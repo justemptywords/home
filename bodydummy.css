@@ -2,3 +2,8 @@
 html {
   cursor: url("https://justemptywords.github.io/home/3dgarro.cur"), default;
 }
+
+#Bottom {
+   position : absolute;
+   bottom : 0;
+}
